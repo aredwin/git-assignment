@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this content is added from master branch
+=======
+this is the task-4
+this is for commit2
+>>>>>>> 4364701 (this is for commit2 in feature-cherry branch)
