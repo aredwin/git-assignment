@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-hello this is my task1
-
-hi im edwin 
-this task must be completed by today
-=======
-this is my task-2 which i have done in this file
->>>>>>> local
+this is my 3rd task
